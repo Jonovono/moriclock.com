@@ -1,0 +1,86 @@
+#cal {
+	/*margin-left: 70px;*/
+}
+
+#cal {
+	width; '50%';
+	float: left;
+	margin-top: 10px;
+}
+
+#countdown {
+	float: right;
+}
+
+body {
+	background-color: #FCFCFC;
+}
+
+.birthdate:hover {
+	cursor: pointer;
+}
+
+.birthday {
+	text-decoration: underline;
+}
+
+.experienced {
+	background-color: #b5cf6b;
+	fill: #afd9ee;
+}
+
+#bars {
+	/*margin-top: 50px;*/
+	margin-top: 20px;
+	padding-right: 100px;
+}
+
+#countdowns {
+	padding-top: 10;
+}
+
+rect:hover
+{
+	stroke: #000;
+	stroke-width: 1px
+}
+
+.graph-rect.week-day-1 {
+	fill: #040D11;
+}
+
+.graph-rect.week-day-2 {
+	fill: #133F53;
+}
+
+.graph-rect.week-day-3 {
+	fill: #2A8AB7;
+}
+
+.graph-rect.week-day-4 {
+	fill: #48A9D5;
+}
+
+.graph-rect.week-day-5 {
+	fill: #48A9D5;
+}
+
+.graph-rect.week-day-5 {
+	fill: #48A9D5;
+}
+
+.footer {
+	padding-top: 30px;
+	padding-left: 150px;
+}
+
+
+.menu { padding:0; margin:0; width:400px; float:left;}
+.menu ul { padding:0; margin:0; list-style:none; border:0; float:left;}
+.menu ul li { float:left; margin:0; padding:0; border:0;}
+.menu ul li a { float:left; margin:0; padding:13px 10px;  text-decoration:none; }
+
+.title {
+	clear: both;
+	padding-top: 20px;
+}
